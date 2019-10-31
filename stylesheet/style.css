@@ -1,0 +1,44 @@
+body{background-color:rgb(100,75,90); padding: 20px; background-image: url("bg3.jpg"); background-repeat: no-repeat; background-size: cover; }
+
+
+h1{
+font-family: "Courier New", monospace; color:pink; background-color: green; padding: 5px; border-style:dotted; border-width:2px;}
+img{border-style:inset;}
+
+h3{font-family: "Arial Narrow";}
+
+hr{border-width:3px; border-style:grove; border-color:yellow;}
+
+
+
+i {
+color: yellow;}
+
+b{
+color: blue;}
+p b {
+color: blue !important;}
+p b {
+color: violet;}
+p#intro {
+font-size: 90%;}
+p {
+font-size: 75%; opacity: 0.1;}
+
+.note{font-family: "Bahnschrift Light";}
+
+a{color:white;}
+li{color:#ee3e80;}
+
+
+#introduction
+{color:green;}
+
+div{
+  background-color: gray;
+  width: 300px;
+  border: 10px solid pink;
+  padding: 2px;
+  margin: 1px;
+}
+
